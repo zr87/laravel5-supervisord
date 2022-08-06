@@ -1,4 +1,4 @@
-#laravel5-supervisord
+# laravel5-supervisord
 Supervisor designed to run in a separate container versus running in same container as the main app.
 This image is optimized to use it wit Laravel 5.2 and php version 7.1.
 
