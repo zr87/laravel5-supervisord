@@ -1,6 +1,6 @@
-FROM php:7.4-cli
+FROM php:7.1-cli-alpine
 
-LABEL author="redditsaved"
+LABEL author="zr87"
 
 ENV APP_ROOT=/home/app QUEUE_DRIVER=database NUM_PROCS=4 OPTIONS=
 
